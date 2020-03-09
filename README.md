@@ -11,5 +11,5 @@ Simple Node.js REST applicaton designed to demonstrate
 `node index.js`
 
 ## Sample endpoints
-`http://localhost:8080/api-docs/` - Swagger documentation of all endpoints
-`http://localhost:8080/add_person.html` - Simple for form for adding new users
+* `http://localhost:8080/api-docs/` - Swagger documentation of all endpoints
+* `http://localhost:8080/add_person.html` - Simple for form for adding new users
