@@ -1,5 +1,5 @@
 {
-  "name": "node_rest_sample",
+  "name": "simple_node_rest_service",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
